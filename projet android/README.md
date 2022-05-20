@@ -1,3 +1,3 @@
-# mes-competence
+# Projet Android
 
-Gestion des compétences
+ANDROID PROJECT
